@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://cdn.xinterverse.cf/wallpaper.png">
 I'm XInterverse... I do a lot of things in my life. I'm the CEO of [Itexel](https://itexel.cf) and I'm also one of the admins of DigitalZero. I'm a HTML, Node.js and a basic PHP developer. I've had experience with WordPress, although now I prefer coding because there's no limit to what you can do! You can check my website here: https://xinterverse.cf
+
 - 🌱 I’m currently learning **PHP**
 - 🔭 I’m currently working on **Itexel and DigitalZero**
 - 📫 How to reach me: xinterverse@xinterverse.cf
