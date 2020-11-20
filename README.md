@@ -12,7 +12,7 @@ Itexel is a small company at the moment, we're develping services and applicatio
 We have seperate teams for our seperate projects. Itexel's most active public project that is still being developed is Flaze, which is a video streaming service that is being released to public in mid-2021.
 
 # DigitalZero
-DigitalZero is a tech-based group running a website that gives tech guides along with reviews etc. It also has a very active Discord community which you can join [here](https://discord.gg/UnKeXCRvtQ). A very friendly and active community.
+[DigitalZero](https://digitalzero.cf) is a tech-based group running a website that gives tech guides along with reviews etc. It also has a very active Discord community which you can join [here](https://discord.gg/UnKeXCRvtQ). A very friendly and active community run by 5 Originals.
 
 <!--
 **XInterverse/XInterverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
