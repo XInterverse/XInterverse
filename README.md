@@ -1,4 +1,13 @@
 ### Hi there 👋
+<img src="https://cdn.xinterverse.cf/wallpaper.png">
+I'm XInterverse... I do a lot of things in my life. I'm the CEO of [Itexel](https://itexel.cf) and I'm also one of the admins of DigitalZero. You can check my website here: https://xinterverse.cf
+
+# Itexel
+Itexel is a small company at the moment, we're develping services and applications for people to use. You can check out our latest progress [here](https://itexel.cf/services/)
+We have seperate teams for our seperate projects. Itexel's most active public project that is still being developed is Flaze, which is a video streaming service that is being released to public in mid-2021.
+
+# DigitalZero
+DigitalZero is a tech-based group running a website that gives tech guides along with reviews etc. It also has a very active Discord community which you can join [here](https://discord.gg/UnKeXCRvtQ). A very friendly and active community.
 
 <!--
 **XInterverse/XInterverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
